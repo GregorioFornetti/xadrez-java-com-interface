@@ -1,0 +1,14 @@
+greg
+ju
+G2-G4
+H7-H5
+G4-H5
+G7-G6
+H5-G6
+F7-F5
+G6-G7
+F5-F4
+G7-H8
+D
+F4-F3
+H8-H3
